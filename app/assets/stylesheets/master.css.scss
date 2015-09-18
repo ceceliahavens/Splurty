@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Bangers);
+
 .clear {
 	clear:both;
 }
@@ -34,6 +34,8 @@
     color:black;
     font-size: 25px;
     border-bottom: 1px solid #F78716;
+    font-family: 'lobster_twoitalic', sans-serif;
+    font-weight:bold;
 }
 header {
     border-top: 9px solid #F78716;
@@ -42,8 +44,10 @@ hr {
     clear:both;
 }
 h1 {
-    font-family: 'Bangers', cursive;
+    font-family: 'lobster_twobold', cursive;
+    font-weight:bold;
+    font-size:48px;
 }
 h2 {
-  font-family: 'Bangers', cursive;
+  font-family: 'lobster_twoitalic', cursive;
 }
