@@ -84,3 +84,6 @@ h2 span {
 ::-moz-selection {
   background: #FC220A; /* Gecko Browsers */
 }
+@-ms-viewport{
+  width: device-width;
+}
